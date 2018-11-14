@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: ALK7o2aeUxgIzMln2DdOHV39AppAn/xhGxMPV5djVhkAIQO61N03ErdkZNZoABczqfkkuAsdQPwPkQiuk9ydOffHpM/7nqiiHE6nj3Nw5w0fV8qFGF2ryX7dkAX2mCXxyIUEacnRnwtpeVggO5CvJmPm3uBkZGLd6YKyopX8jysU4Y1LKUwFxEgZeVXl/jUji+4E9DAYpZQwig+tmc7TmjMWLTqanmtHijoCjUFwIldC+UfxBryxMwqulnZt0I3tKiR15OwNJj+taUFUKyci9UxKYzIuXqyr1CktF4wza9CV+fS94DUov/5MzTAcWTxX5KpV33UKV9HLQ1nJnONRD2F4EFmbZx4z9CbRI+Ld0ozU3psKuPzFfkcECpV+pFf/3Uf7wO1VClupI5jFp9JHFMZrUdP0SIqkjeYaKRQm4Df5eKA/oX0LosIQF7LX5WIL63d2/CcWMnnuzt+vDVoAxOZ3jXR303JHZk4djjHGa2xtoYpEH0bbYDXYQACetNjulhmvDaaUFCnIx0Nblapp7Aafo6nNq/U439XMDSfp0a4gk4tyqZTImK9Mlh9RaRs1zuimsgmQSJe+232sG+y4mrcR2x0y3XLklLbxVP+gyTEMN1puswqJeBYzbhLgjtYT1+VzgRFO/+kX/HMI+coVjYZn2IgF+8oAlDP8kskrYqs=
-  app: blog-api
+  app: secret-hamlet-76574
   on:
     repo: ecarlson1201/blog-api
